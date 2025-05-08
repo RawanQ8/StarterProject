@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "StarterProject",
-    "slug": "StarterProject",
+    "slug": "starterproject",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -37,6 +37,13 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "4313ed2f-2619-445d-956a-db8f43780978"
+      }
+    },
+    "owner": "rawanq8"
   }
 }
